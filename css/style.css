@@ -1,0 +1,9 @@
+.hero-banner {
+    position: relative;  
+    height: 500px;
+    width: auto;
+    background-image: url("./images/show stopper m.jpg");  
+    background-size: cover;
+    background-position: center;
+    
+}
