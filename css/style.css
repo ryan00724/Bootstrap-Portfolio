@@ -1,6 +1,6 @@
 .showstopper{
     height: 500px;
-    background-image: url("./images/show stopper m.jpg");
+    background-image: url("Images/show\ stopper\ m2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -17,20 +17,28 @@
 }
 
 .card-img-top{
-    width: 100%;
+    align-items: center;
     height: 270px;
+}
+
+.card{
+    margin-bottom: 10px;
+    min-height: 540px;
 }
 
 .profile{
     width: 300px;
     border-radius: 10px;
+    max-height: 400px;
 }
 
 .banana {
     display: flex;
     margin-top: 10px;
+    align-items: center;
 }
-
-section .card{
+ section .card{
     margin-left: 10px;
+    max-width: 900px;
+     
 }
